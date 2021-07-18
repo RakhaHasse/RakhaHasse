@@ -1,7 +1,7 @@
 ![](https://github.com/RakhaHasse/RakhaHasse/blob/main/00.jpg)
 
 
-Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. My coding journey started in summer 2015. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch.  Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
+Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. My coding journey started in summer 2013. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch.  Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
 
 
 My Stacks 
@@ -14,4 +14,4 @@ My Stacks
 
 
 
-Here is my [eMail](mailto:apolo40423@gmail.com?Subject=Hello%20Super!) , [Skype](https://join.skype.com/invite/wpiow8qFNqHQ) , [Telegram](https://t.me/WebDeveloper423) and [Discord](https://discord.gg/gwuRBwJ3)
+Here is my [eMail](mailto:petr.khromov.91@gmail.com?Subject=Hello%20Super!) , [Skype](https://join.skype.com/invite/wpiow8qFNqHQ) , [Telegram](https://t.me/WebDeveloper423) and [Discord](https://discord.gg/gwuRBwJ3)
