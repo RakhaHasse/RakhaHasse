@@ -13,5 +13,4 @@ My Stacks
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
 
-
-Here is my [eMail](mailto:petr.khromov.91@gmail.com?Subject=Hello%20Super!) , [Skype](https://join.skype.com/invite/wpiow8qFNqHQ) , [Telegram](https://t.me/WebDeveloper423) and [Discord](https://discord.gg/gwuRBwJ3)
+Here is my [eMail](mailto:petr.khromov.91@gmail.com?Subject=Hello%20Super!) , [Skype](https://join.skype.com/invite/wpiow8qFNqHQ)
