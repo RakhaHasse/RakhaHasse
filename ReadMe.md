@@ -4,7 +4,7 @@
 I am a full Stack developer with awesome web technical skills and the ability to thrive in a fast-paced environment,am looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. I've started my coding journey in summer 2013. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch.  
 
 
-My Stacks 
+My Stacks  
 
 * - Frontend Development: 
 [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/) ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 )
